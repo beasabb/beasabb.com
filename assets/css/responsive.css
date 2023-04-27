@@ -447,6 +447,8 @@
 	.site-footer .row {
 		display:flex;
 		flex-direction: column-reverse;	
+		justify-content: center;
+		align-items: center;
 	}
 
 	.site-footer .text-right{
